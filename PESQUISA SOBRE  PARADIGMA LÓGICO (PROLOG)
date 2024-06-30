@@ -1,0 +1,16 @@
+O Paradigma de Programação Lógica é baseada em lógica formal, onde temos associações ou regras que podem ser satisfeitas ou não , por exemplo:
+
+  1. Se bater o carro, o carro estraga  (A,B)    
+  2. Bate o carro (A)
+  3. Logo, o carro estraga (B)
+
+    Podemos traduzir isso como:
+  1. Se A, B
+  2. A
+  3. B
+
+    VANTAGENS
+- A programação lógica visa simular o raciocínio humano (Alto Nível), facilitando a sua compreensão; 
+
+DESVANTAGENS
+- Complexidade aumenta exponencialmente quando usamos este tipo de paradigma;
